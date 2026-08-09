@@ -12,10 +12,10 @@ ORDIN develops governed agentic systems and technical infrastructure for executi
 
 ## Public systems
 
-- [Agent Control Room](https://github.com/ordin-systems/agent-control-room) — execution-boundary authority control for agentic systems
-- [zKYC Core](https://github.com/ordin-systems/zkyc-core) — agent identity and action-authority decision infrastructure
+- [Agent Control Room](https://github.com/ordin-systems/agent-control-room) — evidence landing page for execution-boundary authority control; sanitized source, public CI and reference release remain pending.
+- [zKYC Core](https://github.com/ordin-systems/zkyc-core) — released bounded agent identity and action-authority decision reference; [immutable `v0.1.0-reference`](https://github.com/ordin-systems/zkyc-core/releases/tag/v0.1.0-reference) with 21 acceptance tests and passing Node 20/22 CI.
 
-Each repository carries an explicit publication-status notice and claim boundary while its sanitized public source, verification, CI, and release package are prepared.
+Each repository carries its own publication status, verification evidence and claim boundary. A published landing page is not represented as a completed implementation release.
 
 ## Publication standard
 
