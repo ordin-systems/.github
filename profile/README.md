@@ -23,5 +23,5 @@ Public repositories are released with explicit authorship and rights, bounded ar
 
 ## Maintainer
 
-**Mike “Mizzy” Barrera** — Chief Agentic Systems Architect  
+**Mike “Mizzy” Barrera**   
 [GitHub](https://github.com/mizzysworld) · [Email](mailto:0xmizzy@gmail.com)
